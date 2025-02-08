@@ -1,0 +1,16 @@
+{
+  "HeaderConfig": [
+    { "title": "Dashboard", "icon": "fas fa-chart-bar", "url": "/" },
+    { "title": "Tasks", "icon": "fas fa-tasks", "url": "/tasks" },
+    {
+      "title": "Pending",
+      "icon": "fa-solid fa-clock",
+      "url": "/tasks/pending"
+    },
+    {
+      "title": "Elapsed Tasks",
+      "icon": "fa-solid fa-hourglass-end",
+      "url": "/tasks/elapsed"
+    }
+  ]
+}
