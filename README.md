@@ -38,7 +38,7 @@ A web application to efficiently manage and track your tasks. The app provides a
 
 1. Clone the repository
 
-   git clone https://github.com/yourusername/task-tracker-app.git
+   git clone https://github.com/Mankumanki/Simplify.git
 
 2. Install dependencies
 
