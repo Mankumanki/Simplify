@@ -63,3 +63,16 @@ A web application to efficiently manage and track your tasks. The app provides a
    ##### 3. Under storage you will see local storage and your site url. Click on it.
 
    ##### 4. Under Key type "TaskLists" and for value paste the data from "TestData" file.
+
+## Deployed Version
+
+   https://eloquent-pika-46dc6f.netlify.app/
+   
+   ![Simplify-Storage](https://github.com/user-attachments/assets/1fa60a5a-257e-4cee-97b4-278b366ba957)
+
+   ![Simplify-Working](https://github.com/user-attachments/assets/c452e1ac-c435-4aa2-bd45-c44822b56783)
+
+
+
+
+   
